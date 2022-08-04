@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659623418 source:c:\users\pc\desktop\bref\calculemodification\calculemodif\main.c
+	<stdio.h>
+	<stdlib.h>
+
